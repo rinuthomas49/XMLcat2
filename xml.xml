@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="volim.xslt"?>
+<CHRIST>
+<CS mid="M1">
+<STU-NAME>Lisa</STU-NAME>
+<STU-BRANCH>MCA</STU-NAME>
+<STU-COLLEGE>Amrita College</STU-COLLEGE>
+<STU-MAIL>lisa55@gmail.co</STU-MAIL>
+</CHRIST>
+<CHRIST>
+<CS mid="M2">
+<STU-NAME>Sam</STU-NAME>
+<STU-BRANCH>MSC</STU-NAME>
+<STU-COLLEGE>St.Joseph College</STU-COLLEGE>
+<STU-MAIL>sam345@gmail.com</STU-MAIL>
+</CHRIST>
+<CHRIST>
+<CS mid="M3">
+<STU-NAME>Shankar D</STU-NAME>
+<STU-BRANCH>BCA</STU-NAME>
+<STU-COLLEGE>IHRD College</STU-COLLEGE>
+<STU-MAIL>shankargt67@gmail.com</STU-MAIL>
+</CHRIST>
+<CHRIST>
+<CS mid="M4">
+<STU-NAME>Devika E</STU-NAME>
+<STU-BRANCH>MCA</STU-NAME>
+<STU-COLLEGE>St.Sanford</STU-COLLEGE>
+<STU-MAIL>devikae@gmail.com</STU-MAIL>
+</CHRIST>
+<CHRIST>
+<CS mid="M5">
+<STU-NAME>Vedhika Dev</STU-NAME>
+<STU-BRANCH>DCA</STU-NAME>
+<STU-COLLEGE>Saintgits College</STU-COLLEGE>
+<STU-MAIL>vedhikadad12@gmail.com</STU-MAIL>
+</CHRIST>
+</CHRIST>
